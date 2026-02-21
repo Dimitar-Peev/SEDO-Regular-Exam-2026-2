@@ -1,0 +1,10 @@
+.vs/
+Homies.Data/bin/
+Homies.Data/obj/
+Homies.IntegrationTests/bin/
+Homies.IntegrationTests/obj/
+Homies.Tests/bin/
+Homies.Tests/obj/
+Homies/bin/
+Homies/obj/
+*.user
